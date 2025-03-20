@@ -11,4 +11,12 @@ build-dir = "../../build/book"    # the directory where the output is placed
 create-missing = true       # whether or not to create missing pages
 
 [theme]
-name = "Ayu"                # the name of the theme to use
+name = "ayu"                # the name of the theme to use
+dark = true                 # whether or not to use the dark theme
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/fisothemes/highlightjs-twincat-st/"
+edit-url-template = "https://github.com/fisothemes/highlightjs-twincat-st/tree/master/{path}"
+cname = "https://github.com/fisothemes/highlightjs-twincat-st/"
