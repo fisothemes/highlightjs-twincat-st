@@ -12,4 +12,3 @@ create-missing = true       # whether or not to create missing pages
 
 [theme]
 name = "Ayu"                # the name of the theme to use
-src = "doc/book"            # the directory where the theme's content is located
