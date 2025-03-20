@@ -50,7 +50,7 @@ END_VAR
     VAR_INPUT
         fSpeed : LREAL;
     END_VAR
-        THIS^._fCurrentSpeed := SEL(HIS^._bIsRunning, 0.0, fSpeed);
+        THIS^._fCurrentSpeed := SEL(THIS^._bIsRunning, 0.0, fSpeed);
     END_METHOD
 END_FUNCTION_BLOCK
 ```
