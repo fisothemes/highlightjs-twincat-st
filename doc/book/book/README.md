@@ -1,6 +1,4 @@
-# Chapter 1
-
-## Introduction to TwinCAT ST Syntax Highlighting
+# Example TwinCAT ST Syntax Highlighting
 
 This book is a showcase of Structured Text (ST) syntax for your mdBook using Highlight.js
 
