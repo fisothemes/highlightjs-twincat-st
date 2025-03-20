@@ -3,6 +3,10 @@
 ## Overview
 This repository provides a **Highlight.js** language definition for **TwinCAT Structured Text (ST)**, allowing for proper syntax highlighting in mdBook, web applications, and documentation.
 
+## Example Page
+See an example implementation in the following repository: **[
+fisothemes/highlightjs-twincat-st](https://github.com/fisothemes/highlightjs-twincat-st)**
+
 ## Features
 - **Syntax highlighting** for TwinCAT Structured Text (ST) / IEC 61131-3
 - **Supports Highlight.js** with `language-iec-st`
